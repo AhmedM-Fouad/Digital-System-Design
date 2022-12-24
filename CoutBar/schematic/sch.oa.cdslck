@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      amf323
+HostName                       karakash.cc.lehigh.edu
+ProcessIdentifier              3616
+ProcessCreationTime_UTC        1670270307
+ProcessCreationTime_Readable   Mon Dec  5 14:58:27 2022 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/amf323/CMOSedu/ECE361/CoutBar/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Dec  5 16:48:42 2022 EST
