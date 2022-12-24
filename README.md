@@ -14,4 +14,5 @@
 
 # 8-Bit divider schematic and symbol
 This circuit is incomplete and will be updated once finished.
+
 [8BitDivider.pdf](https://github.com/AhmedM-Fouad/Digital-System-Design/files/10298039/8BitDivider.pdf)
